@@ -15,11 +15,13 @@ This is the official Digital Logic Design Project - Simple As Possible 1 (SAP-1)
 ![12](https://github.com/zee404-code/SAP-1/assets/127659222/6206876b-927f-411f-9db7-2fc2d701d727)
 
 
-
-
-
-
-[embed]https://github.com/zee404-code/SAP-1/files/13780348/SAP.1.Phase.4.Report.ByteSquad.pdf[/embed]
-
-
-
+![SAP 1 Phase 4 Report ByteSquad_page-0001](https://github.com/zee404-code/SAP-1/assets/127659222/bd7dce81-b680-4205-b1a7-e9b0e53c81fe)
+![SAP 1 Phase 4 Report ByteSquad_page-0002](https://github.com/zee404-code/SAP-1/assets/127659222/ccceae6e-8b4e-4228-9f91-e30ea3bcdc12)
+![SAP 1 Phase 4 Report ByteSquad_page-0003](https://github.com/zee404-code/SAP-1/assets/127659222/0cb04af8-c4ea-435e-bfbc-09812f799f59)
+![SAP 1 Phase 4 Report ByteSquad_page-0004](https://github.com/zee404-code/SAP-1/assets/127659222/3f303443-018e-47fa-8b64-62e6095764e3)
+![SAP 1 Phase 4 Report ByteSquad_page-0005](https://github.com/zee404-code/SAP-1/assets/127659222/ae01a978-2af8-4c20-9362-dfee7a99aa5c)
+![SAP 1 Phase 4 Report ByteSquad_page-0006](https://github.com/zee404-code/SAP-1/assets/127659222/28e44823-dd72-4db6-9f67-bcaa2630023c)
+![SAP 1 Phase 4 Report ByteSquad_page-0007](https://github.com/zee404-code/SAP-1/assets/127659222/1b809cb3-08d5-4875-9aa2-b1da6972ed33)
+![SAP 1 Phase 4 Report ByteSquad_page-0008](https://github.com/zee404-code/SAP-1/assets/127659222/8bcde5d9-92ef-40c0-b689-79a928d879f8)
+![SAP 1 Phase 4 Report ByteSquad_page-0009](https://github.com/zee404-code/SAP-1/assets/127659222/159ad071-96a1-46d4-996e-5da5acae5bdd)
+![SAP 1 Phase 4 Report ByteSquad_page-0010](https://github.com/zee404-code/SAP-1/assets/127659222/0d1d6d05-9dac-47d3-a8c6-e3fc1f6e9f4e)
