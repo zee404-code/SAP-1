@@ -19,7 +19,7 @@ This is the official Digital Logic Design Project - Simple As Possible 1 (SAP-1)
 
 
 
-[SAP 1 Phase 4 Report ByteSquad.pdf][embed](https://github.com/zee404-code/SAP-1/files/13780348/SAP.1.Phase.4.Report.ByteSquad.pdf)[/embed]
+[embed]https://github.com/zee404-code/SAP-1/files/13780348/SAP.1.Phase.4.Report.ByteSquad.pdf[/embed]
 
 
 
